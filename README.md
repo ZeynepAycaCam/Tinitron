@@ -1,2 +1,2 @@
 # Tinitron
-Link shortener application
+A cloud-native link shortener application
