@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tinitron-forwarding" />
+        <module name="tinitron-link-shortener" />
+        <module name="tinitron-users" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tinitron-forwarding" target="1.8" />
+      <module name="tinitron-link-shortener" target="1.8" />
+      <module name="tinitron-users" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="tinitron-forwarding" options="-parameters" />
+      <module name="tinitron-link-shortener" options="-parameters" />
+      <module name="tinitron-users" options="-parameters" />
+    </option>
+  </component>
+</project>

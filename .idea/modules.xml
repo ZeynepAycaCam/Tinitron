@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Tinitron-Microservices.iml" filepath="$PROJECT_DIR$/.idea/Tinitron-Microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tinitron-forwarding/tinitron-forwarding.iml" filepath="$PROJECT_DIR$/tinitron-forwarding/tinitron-forwarding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tinitron-link-shortener/tinitron-link-shortener.iml" filepath="$PROJECT_DIR$/tinitron-link-shortener/tinitron-link-shortener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tinitron-users/tinitron-users.iml" filepath="$PROJECT_DIR$/tinitron-users/tinitron-users.iml" />
+    </modules>
+  </component>
+</project>

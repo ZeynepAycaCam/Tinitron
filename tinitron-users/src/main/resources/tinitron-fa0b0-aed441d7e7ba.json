@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tinitron-fa0b0",
+  "private_key_id": "aed441d7e7bad8406ae82b3c21f542c40a322171",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDfF1yZA5glTk3g\ni1KO1LNM7bxgtk6k0cn1IygkQacPUsZei9yp3cxWhIIXL4ouY0uu7lqsAf/u/mRZ\nvBbfONIDsA+/LfmBAEzumkPlqxwjF4WfxG08hC2vK44CQf7dIEzD9SREIH4+jv80\nf5sjG8BNy1g2xD+MGsOtcn1rE+gIKHhWthqa7B8lhshZsUtU7guRBMALDZAa4ctB\nElgkqJAAaDG49RKXoRoam8e8LQIKOAi6u3sCeuRJd+njqBhDDdD2kRLPJvgkQ1HV\njhWnl4ya+3rdgwu2fjUwnP8notKThYY0n62q9v2l1RVb0DxCykwtN5Nn+3vlRaC5\ngX0KN4+HAgMBAAECggEANLlANJdxXyu04wL6RXBGWcF7uj2Ls48zFCC1bXAoq8nr\nwM98HJcjIjVZy2H8Xb8w1UxWmH02f8SWcdCudR3oIF/9MLkMVOz9wYwqzL4WPcLi\n3SHekSVJ6LK58pWnRppKGiu24PTu8Rj5fm5D+1WlKp2KoRLbU+DFaxn6QxKmzTpW\nFj4nABnSz7aWJBx/S/VWh3Xcm7+NPZ/sRdMEMsN2YUuy6tsMTeiEL8RbUFoOaC3C\nvJq6P8Hx/mcQeCPo8U5jFfJdYov6LS33ZA/l8ncI8wAyKe/68n07j40aXOSVPrIf\n4FZXVqo2yt5OSE0+xYceYTGx27DCPpUGC9mF7iH5fQKBgQD/PNylkwZd9gbmsNT2\nCZ25PwaS+D/Va4DU0HfPeD3ok0StOcfyu/HvRsbCgM3Ih47THIE+/8giojNFixhD\nGlDoLmYoD2DaBy8ZKZ3dWPfeqm2oRGzcmwZajF57RloD7KyfHs7yxpxh/M+dC2R9\nqLEnmj+mJY2qRNE8Nwl1iB9eswKBgQDfwew2fdJ75d4DWXbZshOpnkosJ4C3IwZ0\ncr9gEzyxxu+qGzJUB94bOm5vhcbUHxD+HBVg5vPADXqPSQ9p+AxQQJxhAMHuqHGr\n9wfDtbhKqUoYR4y6QIe2VQ/uafEpxKZumiV1vtEs2CJI5HT7kheOw4tPQhrQePBp\nSddo+Tl13QKBgCNnyufA7FouXai0kOYMUW+3+W57t0cgoX9j56rE8DmJ7DXnVQAr\n6BScCchDW8hcXYiVZKxbiOSdAWW9NMFiLiT3Ar69216DLppb9oUU6VVe6NU1oLA9\nZPU8kYKiMKxosU1lVanBuUGycw5C3U69Ds4CjJ+8h9k9sJScwdgm6MsXAoGAW6QX\ns0Wa5CWD5QlKFOTLCsgKhsTzAY51wVGRsa6PSBw64gdbeHD0dWBcBI7cnNnQYtJr\nqxFLuVeL341Do9n0aRXdNhlSVAVm8NAuvOf6/5EQCJudNlbhfjqeWL3JCJtCsr+t\nIekx0FUAzavLgZEW1uCdeKuRQdqWU/jrIVIZR30CgYB/3aZPOvzAHxePypU7w24C\ni9b80j2rWsqdpyHbAFV0OV7By2D9vCl30mW1z61nC2cyuFc70DreR58PgDERLS6M\nBxyp8Cf7Jf43zzGNiG5wvTAXpAZQt7ptz/PzM0XxPTe6uwi8p+Xex2DU8px+Wq7V\nv2esawFaZMtjSzNIn6JSpA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "local-sql-account@tinitron-fa0b0.iam.gserviceaccount.com",
+  "client_id": "100482774508315671580",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/local-sql-account%40tinitron-fa0b0.iam.gserviceaccount.com"
+}
